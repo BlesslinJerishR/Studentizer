@@ -1,3 +1,3 @@
-## LogRoot
-- Just a Backend server side API of User Authentication Web Application written using C# .net framework and razor pages.
+## Studentizer
+- Client Demo for the webapp Studentizer.
 #### **[ Developer : Blesslin Jerish R ]**
